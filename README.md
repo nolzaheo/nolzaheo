@@ -2,7 +2,7 @@
 
 ![Seungmin Heo's github stats](https://github-readme-stats.vercel.app/api?username=nolzaheo&count_private=true&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nolzaheo&layout=compact&theme=tokyonight&count_private=true)](https://github.com/nolzaheo/github-readme-stats&PAT_1=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)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nolzaheo&layout=compact&theme=tokyonight&count_private=true)](https://github.com/nolzaheo/github-readme-stats&PAT_1=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)
 
 <!--
 **nolzaheo/nolzaheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
