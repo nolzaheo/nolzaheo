@@ -4,7 +4,8 @@
 
 Click the badge below to verify my AWS Certified Solutions Architect certification:
 
-[![AWS Certified Solutions Architect](https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/3039701f-4ee1-4ae0-8d86-c56ea48cd75e)
+[![AWS Certified Solutions Architect](https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/3039701f-4ee1-4ae0-8d86-c56ea48cd75e)
+
 
 
 <!--
