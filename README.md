@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-![Last Certifications]
-https://www.credly.com/badges/3039701f-4ee1-4ae0-8d86-c56ea48cd75e
+# My AWS Certifications
+
+Click the badge below to verify my AWS Certified Solutions Architect certification:
+
+[![AWS Certified Solutions Architect](https://images.credly.com/size/220x220/images/3039701f-4ee1-4ae0-8d86-c56ea48cd75e/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/3039701f-4ee1-4ae0-8d86-c56ea48cd75e)
+
 
 <!--
 **nolzaheo/nolzaheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
